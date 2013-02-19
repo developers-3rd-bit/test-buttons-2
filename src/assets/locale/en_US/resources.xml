@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<labelOnlyButton>
+		<label>
+			DONE
+		</label>
+	</labelOnlyButton>
+	<iconLabelHorizontallyButton>
+		<label>
+			CALL ME
+		</label>
+	</iconLabelHorizontallyButton>
+	<iconLabelVerticallyButton>
+		<label>
+			COMPUTER MIC
+		</label>
+	</iconLabelVerticallyButton>
+	
+	<labelOnlyButton2>
+		<label>
+			DONE
+		</label>
+		<buttonWidth>
+			100
+		</buttonWidth>
+		<buttonHeight>
+			40
+		</buttonHeight>
+	</labelOnlyButton2>
+	<iconLabelHorizontallyButton2>
+		<label>
+			CALL ME
+		</label>
+		<buttonWidth>
+			200
+		</buttonWidth>
+		<buttonHeight>
+			40
+		</buttonHeight>
+	</iconLabelHorizontallyButton2>
+	<iconLabelVerticallyButton2>
+		<label>
+			COMPUTER MIC
+		</label>
+		<buttonWidth>
+			300
+		</buttonWidth>
+		<buttonHeight>
+			80
+		</buttonHeight>
+	</iconLabelVerticallyButton2>
+</data>

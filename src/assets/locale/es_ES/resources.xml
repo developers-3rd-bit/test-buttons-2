@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<labelOnlyButton>
+		<label>
+			HECHO
+		</label>
+	</labelOnlyButton>
+	<iconLabelHorizontallyButton>
+		<label>
+			Llámame
+		</label>
+	</iconLabelHorizontallyButton>
+	<iconLabelVerticallyButton>
+		<label>
+			Ordenador Mic
+		</label>
+	</iconLabelVerticallyButton>
+	
+	<labelOnlyButton2>
+		<label>
+			HECHO
+		</label>
+		<buttonWidth>
+			100
+		</buttonWidth>
+		<buttonHeight>
+			40
+		</buttonHeight>
+	</labelOnlyButton2>
+	<iconLabelHorizontallyButton2>
+		<label>
+			Llámame
+		</label>
+		<buttonWidth>
+			200
+		</buttonWidth>
+		<buttonHeight>
+			40
+		</buttonHeight>
+	</iconLabelHorizontallyButton2>
+	<iconLabelVerticallyButton2>
+		<label>
+			Ordenador Mic
+		</label>
+		<buttonWidth>
+			300
+		</buttonWidth>
+		<buttonHeight>
+			80
+		</buttonHeight>
+	</iconLabelVerticallyButton2>
+</data>
